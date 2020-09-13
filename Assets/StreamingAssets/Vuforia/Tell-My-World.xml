@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="qrcode-bulan" size="0.050000 0.050000" />
+    <ImageTarget name="qrcode-pluto" size="0.150000 0.150000" />
+    <ImageTarget name="qrcode-jupiter" size="0.150000 0.150000" />
+    <ImageTarget name="qrcode-venus" size="0.150000 0.150000" />
+    <ImageTarget name="qrcode-uranus" size="0.150000 0.150000" />
+    <ImageTarget name="qrcode-saturnus" size="0.150000 0.150000" />
+    <ImageTarget name="qrcode-neptunus" size="0.150000 0.150000" />
+    <ImageTarget name="qrcode-merkurius" size="0.150000 0.150000" />
+    <ImageTarget name="qrcode-matahari" size="0.150000 0.150000" />
+    <ImageTarget name="qrcode-mars" size="0.150000 0.150000" />
+    <ImageTarget name="qrcode-bumi" size="0.150000 0.150000" />
+  </Tracking>
+</QCARConfig>

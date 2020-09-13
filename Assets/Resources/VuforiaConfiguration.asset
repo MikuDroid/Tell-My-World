@@ -14,17 +14,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   vuforia:
     vuforiaLicenseKey: AbNcvpv/////AAABmSu5sP083UlsoHa0FehFW4QzFR/BDuqon+rzW8r/ArklabGuOAbS2rpw17IW7tzS+8ZY9oilrhHPLbdiHApXQLCBztFCUG9Tsg8lJSWfRvygWqBqp+7P9ZN8rmZ+0Ca+OjyX2p7K1cPw3tz2P6yLtIp8AXArFfcXOebsFmSpUt4RF+xKAC1WpHzjJaaanmtAxMiydBZ7/YBqCM0J2YJJ6FdILjST0KjyVQ+5e0iQxupihIHRo9FToHQo79oWfBP7oMHXhdfFjAz1f/MdycwC0I8AipYAiay64Ku9MGJ+kti1FZkpej9zbjwL4oBWjZUg0yi9QSX8my8MZmQVLmwQWiMKLDqlwysAkaoRgqlHEPNz
-    ufoLicenseKey: QVJDQk5hei8vLy8vQUFBQUtDMDNscHhjdFVmYXE1Tm15RXQrUmgxRVZ3dVlFOUJWWnZxcDliRXcyWXFhZlZpYmNnVm81bzY3ak5wTjhvMUtOdGtlTVJ5NHUvQUNqTDkwR1RibHpKOWtTZzlxS3RuR2VEUDNsUk9mM2RXdU55c1JGNVVtUFhQRzhrQmE3dUl1NTYwUExVMWR4YllZNzdwRmgraWlNTVk2MDQvOHBBYkhvS3RhUUlUVzZkZmRmQ2hvQkdvTUV1K2JhZkRhZHZLejhMSStodDdZK3VKa3VLRUMwUWVEd0Y3bFFnbzREM0JYZFBPNnd1bFdUTDBQRzA5UlowcVhIc2hmU2kvMVJBUGlLblRDc3NxWkZHZytOMkZFOGM3YjlSMnViRE40Wi8vempYenZGUnN1SytQZWRlTjFyZXFXZkNpZGVEaHNmMk9iRGFRZjRGMUl6bzVVRTNRNXhlL0tpVEdqOU1WaEIzSlJTQWZvUkkxS1NSY2k=
+    ufoLicenseKey: QVhiM0Y1Ly8vLy8vQUFBQUtPbnFIeHJFSGs1N3VrMlg4U050eVBzK2pkOFZxMDhrazlwYjBsYS9aZUIxQlV1ckZWcWt0ZllSQWpnT2tIRlY2VzdOMDRTRjNYRUhmbTF5L1BnYlB4eWdHWEF6RUNheXowc3dyNVNYa2ozdERuRjhka1FpOHRscHdkMDcrcEJEY1FjTjNJcUM1bEgwOTYzQkdZdjRsQStRb0hSQU9nRGthelp5TlY0WHVwWU9EaE05NWw5bXAzbnBDMjM5MWZBWXBFdEdiL2loTDNab3N4b25ZblhjK1JtSS9wLzRoTDIwVGhmTXR6WFJNYkpUTXZLZzJoQ0N0TEJXNEptZ0pSOUtSdStzQWM3QjVNOWFFMGVHQ1dUT1VRSUUweEpiZC9ZL2cvS29iNDhBRXdQOGFwbWR5NmRWU0FHU2psVzRZY2FEU2Zud3J1ZHhucVNmSUZiajNTUnIzM0lKVlFIaW1rL0oyOGNFeDdyekcySXg=
     delayedInitialization: 0
-    cameraDeviceModeSetting: -1
-    maxSimultaneousImageTargets: 1
-    maxSimultaneousObjectTargets: 1
+    cameraDeviceModeSetting: -3
+    maxSimultaneousImageTargets: 11
+    maxSimultaneousObjectTargets: 11
     virtualSceneScaleFactor: 1
     useDelayedLoadingObjectTargets: 0
     modelTargetRecoWhileExtendedTracked: 1
-    version: 9.3.3
-    eulaAcceptedVersions: '{"Values":["8.5","8.6","9.0","9.1","9.2","9.3"]}'
-    modelTargetMode: 0
+    version: 9.4.6
+    eulaAcceptedVersions: '{"Values":["8.5","8.6","9.0","9.1","9.2","9.3","9.4"]}'
   database:
     disableModelExtraction: 0
   videoBackground:
@@ -38,6 +37,7 @@ MonoBehaviour:
     arcoreRequirement: 1
     autoImportArcore: 1
   playmode:
+    mSequencePath: 
     playModeType: 0
   webcam:
     renderTextureLayer: 30
