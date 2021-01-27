@@ -18,7 +18,7 @@ Most of the textures are downloaded from these sites :
  - sdo.gsfc.nasa.gov
  - www.nasa.gov
  - www.solarsystemscope.com
- - Saturn 3D Model : sketchfab.com/3d-models/saturno-f7e67000ff7f461a88fbbec04a961b67
+ - Saturn 3D Model : www.sketchfab.com/3d-models/saturno-f7e67000ff7f461a88fbbec04a961b67
 
 App Icon by u/erwintatp</br>
 TTS using https://cloud.google.com/text-to-speech</br>
